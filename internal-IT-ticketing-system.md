@@ -15,4 +15,4 @@ This documentation covers the design, implementation, and usage of our company's
 4. **Custom Dashboards** for tracking metrics
 
 ## Documentation
-[View full documentation PDF](https://docs.google.com/document/d/1jbJg5BUWcBmnkW0-SMU3ABRFdYwqKAuArpkaOYFw1Vk/edit?usp=sharing))
+[View full documentation PDF](https://docs.google.com/document/d/1jbJg5BUWcBmnkW0-SMU3ABRFdYwqKAuArpkaOYFw1Vk/edit?usp=sharing)
