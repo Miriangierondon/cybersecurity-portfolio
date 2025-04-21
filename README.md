@@ -32,4 +32,4 @@ Whether it's through red teaming or blue teaming, automation or investigation, I
 Feel free to reach out if you want to talk shop, collaborate, or just say hi!
 
 📧 miriangierondonm@hotmail.com  
-🔗 [LinkedIn]((https://www.linkedin.com/in/miriangie-rondon/)
+🔗 [LinkedIn](https://www.linkedin.com/in/miriangie-rondon/)
