@@ -1,4 +1,4 @@
-# 🛡️ Home Lab Cybersecurity Project
+#  Home Lab Cybersecurity Project
 
 This project demonstrates the creation of a virtual cybersecurity lab for learning and testing purposes. It includes:
 
@@ -6,11 +6,11 @@ This project demonstrates the creation of a virtual cybersecurity lab for learni
 - A Kali Linux VM to simulate attacks
 - Custom configurations and testing telemetry data
 
-## 📄 Full Report
+##  Full Report
 
 The complete project report (with visuals and configuration details) is hosted externally due to GitHub size limits.
 
-👉 [**Click here to view/download the full PDF**](https://docs.google.com/document/d/1JHiYls0wJeyzCzLVDQgMFW5q23OdL58BGy-NiOz1gDQ/edit?usp=sharing)
+ [**Click here to view/download the full PDF**](https://docs.google.com/document/d/1JHiYls0wJeyzCzLVDQgMFW5q23OdL58BGy-NiOz1gDQ/edit?usp=sharing)
 
 ---
 
