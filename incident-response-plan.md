@@ -7,8 +7,10 @@
 
 ## Redactions & Notes  
 - All sensitive details (IPs, credentials, internal names) removed.  
-- Network specifics generalized; tools/frameworks emphasized.  
+- Network specifics generalized; tools/frameworks emphasized.
 
 ## Disclaimer  
 *This document was created for educational purposes only.  
 WAW Inc.’s network is no longer operational; no confidential data is exposed.*  
+
+[View Redacted IRP PDF](https://docs.google.com/document/d/1naedySZ3Vk0mxoMm9_E1WFIUwI_wxiRWIngMXrxIgQw/edit?usp=sharing)
