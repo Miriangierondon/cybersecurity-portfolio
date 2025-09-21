@@ -1,0 +1,16 @@
+# pfSense Home Lab Project
+
+This project demonstrates the installation and configuration of **pfSense** to create a secure, segmented lab network for cybersecurity testing. It allows me to safely manage multiple subnets, practice firewall rules, DHCP assignments, and monitor traffic.
+
+**Lab includes:**
+- pfSense VM in VirtualBox acting as firewall and router
+- Configured WAN, ECorp LAN, and Attack LAN segments
+- Firewall rules, aliases, and static IP assignments
+- Full walkthrough of installation, interface setup, and advanced configurations
+
+**Full Report:**  
+The complete project report, including screenshots and configuration details, is hosted externally due to GitHub size limits.
+
+[Click here to view/download the full PDF](#)
+
+Feel free to reach out with questions or feedback!
